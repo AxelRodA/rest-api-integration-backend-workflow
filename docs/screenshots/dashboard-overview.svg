@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Dashboard overview placeholder</title>
+  <desc id="desc">Placeholder screenshot for the repository activity dashboard overview.</desc>
+  <rect width="1280" height="720" fill="#08111f"/>
+  <rect x="48" y="40" width="1184" height="640" rx="12" fill="#101b2d" stroke="#25324a"/>
+  <text x="88" y="100" fill="#eff6ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Repository Activity Dashboard</text>
+  <text x="88" y="134" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="18">Portfolio screenshot placeholder</text>
+  <rect x="88" y="180" width="210" height="110" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="318" y="180" width="210" height="110" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="548" y="180" width="210" height="110" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="778" y="180" width="210" height="110" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="1008" y="180" width="136" height="110" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="88" y="326" width="700" height="292" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <rect x="814" y="326" width="330" height="292" rx="8" fill="#0d1728" stroke="#25324a"/>
+  <text x="112" y="222" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="14">Summary Card</text>
+  <text x="342" y="222" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="14">Summary Card</text>
+  <text x="572" y="222" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="14">Summary Card</text>
+  <text x="802" y="222" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="14">Summary Card</text>
+  <text x="1032" y="222" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="14">Summary</text>
+  <text x="112" y="362" fill="#eff6ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Repository Portfolio</text>
+  <text x="838" y="362" fill="#eff6ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Contributor Leaderboard</text>
+  <text x="112" y="394" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="15">Replace this file with a real exported dashboard screenshot.</text>
+</svg>

@@ -1,0 +1,181 @@
+{
+  "summary": {
+    "repository_count": 4,
+    "total_stars": 136842,
+    "total_forks": 14126,
+    "total_watchers": 136842,
+    "open_issues": 18,
+    "closed_issues": 9,
+    "active_contributors": 12,
+    "top_language": "Python",
+    "last_refreshed_at": "2026-04-26T15:42:11Z",
+    "warnings": []
+  },
+  "repos": [
+    {
+      "id": 160919119,
+      "name": "fastapi",
+      "full_name": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production.",
+      "owner": "fastapi",
+      "language": "Python",
+      "stars": 97416,
+      "forks": 9099,
+      "watchers": 97416,
+      "open_issues": 6,
+      "default_branch": "master",
+      "health_score": 92,
+      "last_activity_at": "2026-04-26T14:18:02Z",
+      "updated_at": "2026-04-26T14:19:53Z",
+      "archived": false
+    },
+    {
+      "id": 179892154,
+      "name": "httpx",
+      "full_name": "encode/httpx",
+      "url": "https://github.com/encode/httpx",
+      "description": "A next generation HTTP client for Python.",
+      "owner": "encode",
+      "language": "Python",
+      "stars": 12884,
+      "forks": 1097,
+      "watchers": 12884,
+      "open_issues": 4,
+      "default_branch": "master",
+      "health_score": 88,
+      "last_activity_at": "2026-04-26T13:31:28Z",
+      "updated_at": "2026-04-26T13:50:01Z",
+      "archived": false
+    },
+    {
+      "id": 149667438,
+      "name": "pydantic",
+      "full_name": "pydantic/pydantic",
+      "url": "https://github.com/pydantic/pydantic",
+      "description": "Data validation using Python type hints.",
+      "owner": "pydantic",
+      "language": "Python",
+      "stars": 24491,
+      "forks": 2251,
+      "watchers": 24491,
+      "open_issues": 5,
+      "default_branch": "main",
+      "health_score": 89,
+      "last_activity_at": "2026-04-26T12:54:16Z",
+      "updated_at": "2026-04-26T13:02:40Z",
+      "archived": false
+    },
+    {
+      "id": 192547856,
+      "name": "vite",
+      "full_name": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling.",
+      "owner": "vitejs",
+      "language": "TypeScript",
+      "stars": 20491,
+      "forks": 1679,
+      "watchers": 20491,
+      "open_issues": 3,
+      "default_branch": "main",
+      "health_score": 90,
+      "last_activity_at": "2026-04-26T14:01:54Z",
+      "updated_at": "2026-04-26T14:05:27Z",
+      "archived": false
+    }
+  ],
+  "issues": [
+    {
+      "id": 2981100011,
+      "repo": "fastapi/fastapi",
+      "number": 12984,
+      "title": "Improve websocket error handling when upstream disconnects unexpectedly",
+      "state": "open",
+      "url": "https://github.com/fastapi/fastapi/issues/12984",
+      "labels": ["bug", "websockets"],
+      "author": "api-operator",
+      "age_days": 37,
+      "updated_at": "2026-04-26T12:41:12Z",
+      "priority": "high"
+    },
+    {
+      "id": 2981100012,
+      "repo": "encode/httpx",
+      "number": 3527,
+      "title": "Add more explicit timeout diagnostics for client retry workflows",
+      "state": "open",
+      "url": "https://github.com/encode/httpx/issues/3527",
+      "labels": ["enhancement"],
+      "author": "backend-integrator",
+      "age_days": 12,
+      "updated_at": "2026-04-26T11:58:09Z",
+      "priority": "normal"
+    },
+    {
+      "id": 2981100013,
+      "repo": "pydantic/pydantic",
+      "number": 10426,
+      "title": "Regression in schema export for nested union models",
+      "state": "closed",
+      "url": "https://github.com/pydantic/pydantic/issues/10426",
+      "labels": ["regression"],
+      "author": "platform-dev",
+      "age_days": 5,
+      "updated_at": "2026-04-25T21:14:44Z",
+      "priority": "high"
+    }
+  ],
+  "contributors": [
+    {
+      "login": "tiangolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1326116?v=4",
+      "profile_url": "https://github.com/tiangolo",
+      "total_contributions": 148,
+      "repositories": ["fastapi/fastapi"],
+      "rank": 1
+    },
+    {
+      "login": "Kludex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9027317?v=4",
+      "profile_url": "https://github.com/Kludex",
+      "total_contributions": 126,
+      "repositories": ["fastapi/fastapi", "encode/httpx"],
+      "rank": 2
+    },
+    {
+      "login": "samuelcolvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/689595?v=4",
+      "profile_url": "https://github.com/samuelcolvin",
+      "total_contributions": 119,
+      "repositories": ["pydantic/pydantic"],
+      "rank": 3
+    }
+  ],
+  "activity": [
+    {
+      "id": "489190001",
+      "repo": "fastapi/fastapi",
+      "actor": "Kludex",
+      "event_type": "PushEvent",
+      "label": "Code pushed",
+      "created_at": "2026-04-26T14:18:02Z"
+    },
+    {
+      "id": "489190002",
+      "repo": "encode/httpx",
+      "actor": "tomchristie",
+      "event_type": "IssuesEvent",
+      "label": "Issue updated",
+      "created_at": "2026-04-26T13:31:28Z"
+    },
+    {
+      "id": "489190003",
+      "repo": "vitejs/vite",
+      "actor": "yyx990803",
+      "event_type": "ReleaseEvent",
+      "label": "Release published",
+      "created_at": "2026-04-26T12:54:16Z"
+    }
+  ]
+}

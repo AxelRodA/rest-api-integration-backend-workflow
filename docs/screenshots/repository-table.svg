@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Repository table placeholder</title>
+  <desc id="desc">Placeholder screenshot for the repository table view.</desc>
+  <rect width="1280" height="720" fill="#08111f"/>
+  <rect x="56" y="52" width="1168" height="616" rx="12" fill="#101b2d" stroke="#25324a"/>
+  <text x="92" y="108" fill="#eff6ff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Repository Table Placeholder</text>
+  <rect x="92" y="150" width="1096" height="52" rx="6" fill="#0d1728" stroke="#25324a"/>
+  <rect x="92" y="220" width="1096" height="72" rx="6" fill="#0d1728" stroke="#25324a"/>
+  <rect x="92" y="304" width="1096" height="72" rx="6" fill="#0d1728" stroke="#25324a"/>
+  <rect x="92" y="388" width="1096" height="72" rx="6" fill="#0d1728" stroke="#25324a"/>
+  <rect x="92" y="472" width="1096" height="72" rx="6" fill="#0d1728" stroke="#25324a"/>
+  <text x="116" y="183" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="15">Repository | Language | Stars | Issues | Health | Updated</text>
+  <text x="116" y="262" fill="#8fa3bf" font-family="Arial, sans-serif" font-size="15">Use this slot for a real table screenshot from the running app.</text>
+</svg>
